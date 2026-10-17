@@ -1,8 +1,8 @@
 # PawPedia - Dog Breed Explorer
 
-- **PS Number:** PS-9
-- **Project Name:** PawPedia
-- **Live Link:** [https://pawpedia-assignment.vercel.app](https://pawpedia-assignment.vercel.app)
+- PS Number : PS-9
+- Project Name : PawPedia
+- Live Link : https://ps-9-paw-pedia.vercel.app/breeds
 
 ---
 
@@ -48,12 +48,14 @@ This project fetches data from the public **Dog CEO API** (`https://dog.ceo/dog-
 ## Screenshots
 
 ### 1. Home Page & Random Dog Generator
-<!-- Paste Home Page screenshot here -->
+<img width="1470" height="956" alt="Screenshot 2026-10-18 at 1 35 53 AM" src="https://github.com/user-attachments/assets/59cc6833-810c-4728-bbfb-11faca6b531c" />
+
 
 
 
 ### 2. Breeds List & Search Filter
-<!-- Paste Breeds Page screenshot here -->
+<img width="1470" height="956" alt="Screenshot 2026-10-18 at 1 36 14 AM" src="https://github.com/user-attachments/assets/ac05605d-1812-4816-9b43-b2d6974c1613" />
+
 
 
 
