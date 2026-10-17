@@ -2,7 +2,7 @@
 
 - PS Number : PS-9
 - Project Name : PawPedia
-- Live Link : https://ps-9-paw-pedia.vercel.app/breeds
+- Live Link : https://ps-9-paw-pedia.vercel.app/
 
 ---
 
